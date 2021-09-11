@@ -1,8 +1,8 @@
 ### What's poppin? 🤙
 
-👨‍💻 .Net Developer 
-🔌 Knowledge in electronics, circuit board design & embedded systems/PLC programming
-✏️ Bachelor's degree loading ... 
+👨‍💻 .net developer  
+🔌 Knowledge in electronics, circuit board design & embedded system/PLC programming  
+✏️ Bachelor's degree loading ...   
 <!--
 **BernhardAuer/BernhardAuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
