@@ -3,6 +3,7 @@
 👨‍💻 .net developer  
 🔌 Knowledge in electronics, circuit board design & embedded system/PLC programming  
 ✏️ Bachelor's degree loading ...   
+✌️  hit me up if you know an interesting project
 <!--
 **BernhardAuer/BernhardAuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
